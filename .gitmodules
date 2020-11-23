@@ -1,0 +1,30 @@
+[submodule ".refs/machine-learning/malware-api-class"]
+	path = .refs/machine-learning/malware-api-class
+	url = https://github.com/lucmichalski/malware_api_class
+[submodule ".refs/vulnerable-apps/awesome-vulnerable-apps"]
+	path = .refs/vulnerable-apps/awesome-vulnerable-apps
+	url = https://github.com/lucmichalski/awesome-vulnerable-apps
+[submodule ".refs/logs/apache-http-logs"]
+	path = .refs/logs/apache-http-logs
+	url = https://github.com/lucmichalski/apache-http-logs
+[submodule ".refs/machine-learning/lstm-malware-detection"]
+	path = .refs/machine-learning/lstm-malware-detection
+	url = https://github.com/lucmichalski/lstm_malware_detection
+[submodule ".refs/vulnerability-scanners/vuls"]
+	path = .refs/vulnerability-scanners/vuls
+	url = https://github.com/lucmichalski/vuls
+[submodule ".refs/vulnerability-scanners/nuclei"]
+	path = .refs/vulnerability-scanners/nuclei
+	url = https://github.com/lucmichalski/nuclei
+[submodule ".refs/vulnerable-apps/dvwp"]
+	path = .refs/vulnerable-apps/dvwp
+	url = https://github.com/lucmichalski/dvwp
+[submodule ".refs/xss/xss2png"]
+	path = .refs/xss/xss2png
+	url = https://github.com/lucmichalski/xss2png
+[submodule ".refs/xss/XSSwagger"]
+	path = .refs/xss/XSSwagger
+	url = https://github.com/lucmichalski/XSSwagger
+[submodule ".refs/burp/api-keys-snitch"]
+	path = .refs/burp/api-keys-snitch
+	url = https://github.com/vavkamil/API-Keys-Snitch
